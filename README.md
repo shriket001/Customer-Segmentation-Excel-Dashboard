@@ -92,6 +92,5 @@ Below is a screenshot of the Customer Segmentation Dashboard created in Microsof
 
 **👤 Panchal Shriket**  
 📌 Data Analyst — *Excel | Power BI | SQL | Python*  
-🔗 LinkedIn / GitHub Profile: *(Add your link here)*  
-
----
+📧 **Email:** [Contact Me](mailto:er.shriketpanchal@gmail.com)  
+🔗 **LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/in/shriket-panchal)
