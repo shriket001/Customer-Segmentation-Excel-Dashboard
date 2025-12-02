@@ -20,10 +20,10 @@ The aim of this project is to help businesses **understand customer personas** a
 
 ## 🧠 Dataset & Data Model  
 
-| Type | File Name | Description |
-|------|------------|-------------|
-| **Data Source** | `customer_data.xlsx` | Raw customer records |
-| **Dashboard** | `Customer_Segmentation_Dashboard.xlsx` | Final interactive dashboard |
+| Type           | File Name                         | Description              |
+|----------------|-----------------------------------|--------------------------|
+| **Data Source**| `data/customers.csv`              | Raw customer records     |
+| **Dashboard**  | `dashboard/Customer Segmentation.xlsx` | Final interactive dashboard |
 
 🔹 Data cleaning completed using **Excel formulas & Power Query**  
 🔹 Analysis built using **PivotTables and PivotCharts**
@@ -32,32 +32,35 @@ The aim of this project is to help businesses **understand customer personas** a
 
 ## 🛠 Tools & Techniques  
 
-| Component | Details |
-|----------|---------|
-| Platform | Microsoft Excel |
-| Data Cleaning | Power Query |
-| Analysis | PivotTables |
-| Visualization | PivotCharts, Dynamic KPIs |
-| Interactivity | Slicers, Conditional Formatting |
-| Key Formulas Used | `COUNTIF()`, `AVERAGE()`, `VLOOKUP()`, `IF()`, `TEXT()`, `DATE()` |
+| Component        | Details                               |
+|------------------|----------------------------------------|
+| Platform         | Microsoft Excel                        |
+| Data Cleaning    | Power Query                            |
+| Analysis         | PivotTables                            |
+| Visualization    | PivotCharts, Dynamic KPIs              |
+| Interactivity    | Slicers, Conditional Formatting        |
+| Key Formulas Used| `COUNTIF()`, `AVERAGE()`, `VLOOKUP()`, `IF()`, `TEXT()`, `DATE()` |
 
 ---
 
 ## 📊 Dashboard Highlights  
 
-| KPI | Value |
-|-----|-------|
-| Total Customers | **500** |
-| Average Age | **46 Years** |
-| Average Income | **$114.4K** |
-| Average Tenure | **5 Years** |
-| Loyal Customer Segment | **40% of total customers** |
-| Top Professions | Engineers, Teachers, Doctors |
+| KPI                    | Value              |
+|------------------------|--------------------|
+| Total Customers        | **500**            |
+| Average Age            | **46 Years**       |
+| Average Income         | **$114.4K**        |
+| Average Tenure         | **5 Years**        |
+| Loyal Customer Segment | **40% of customers** |
+| Top Professions        | Engineers, Teachers, Doctors |
 
-<h2 align="center">🔷 Dashboard Preview</h2>  
-<p align="center">
-  <img src="visuals/Customer_Segmentation.png" width="900">
-</p>
+---
+
+## 🔷 Dashboard Preview  
+
+Below is a screenshot of the Customer Segmentation Dashboard created in Microsoft Excel:
+
+![Customer Segmentation Dashboard](visuals/Customer_Segmentation.png)
 
 ---
 
