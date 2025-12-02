@@ -54,6 +54,11 @@ The aim of this project is to help businesses **understand customer personas** a
 | Loyal Customer Segment | **40% of total customers** |
 | Top Professions | Engineers, Teachers, Doctors |
 
+<h2 align="center">🔷 Dashboard Preview</h2>  
+<p align="center">
+  <img src="visuals/Customer_Segmentation.png" width="900">
+</p>
+
 ---
 
 ## 💡 Key Insights  
